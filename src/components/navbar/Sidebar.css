@@ -1,0 +1,44 @@
+.main_logo{
+    color: white;
+    font-weight: bolder;
+    transition: all 0.2s ease-in;
+    font-size: 2.7vh;
+}
+.main_logo:hover{
+
+    color: #18d26e;
+    margin-left: 10px;
+}
+.algo_select,.size_select,.visual_select,.speed_select{
+    margin: 30px 0px;
+}
+.algo_options,.size_options,.visual_options,.speed_options{
+    color: white;
+    width: 50%;
+    height:6vh;
+    font-size: 1.1em;
+    text-decoration: none;
+    outline: none;
+    border-style: none;
+    background-color: transparent;
+    border-bottom:2px solid #18d26e;
+    cursor: pointer;
+}
+
+.generate{
+    margin-top:40px;
+    width: 50%;
+    font-size: 1.1em;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border: 1px solid #18d26e;
+    justify-content: center;
+    display: flex;
+    padding:10px 0px;
+    border-radius: 8px;
+}
+.generate:hover{
+    background-color: #18d26e;
+
+}

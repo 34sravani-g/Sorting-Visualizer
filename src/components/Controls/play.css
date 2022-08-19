@@ -1,0 +1,17 @@
+.play_control .MuiIconButton-root{
+    
+    background-color: white;
+    box-shadow: 0px 2px 23px 0px rgba(256,256,256,0.3)  !important;
+}
+.play_control .MuiIconButton-root:hover{
+    
+    background-color: rgb(0, 255, 106);
+    box-shadow: 0px 2px 23px 0px rgba(0, 255, 106,0.3) !important;
+}
+#play_icon{
+    padding: 0%;
+    color: rgb(0, 255, 106) !important;
+}
+#play_icon:hover{
+    color:white !important;
+}
